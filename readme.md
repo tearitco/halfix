@@ -1,4 +1,4 @@
-# TEARIT Halfix x86 emulator PAGER
+# TEARIT Halfix x86 emulator no page
 
 Halfix is a portable x86 emulator written in C99. It allows you to run legacy operating systems on modern platforms. 
 
